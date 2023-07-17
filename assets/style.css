@@ -1,0 +1,53 @@
+.bg-blue-darken-1 {
+  background-color: #1e88e5 !important;
+}
+
+.text-blue-darken-1 {
+  color: #1e88e5 !important;
+}
+
+.bg-grey-darken-5 {
+  background-color: #212121 !important;
+}
+
+.bg-blue-grey-darken-4 {
+  background-color: #263238 !important;
+}
+
+.bg-teal-darken-4 {
+  background-color: #004d40 !important;
+}
+
+.bg-blue-grey-lighten-5 {
+  background-color: #eceff1 !important;
+}
+
+.ddnssharp-area img {
+  box-shadow: -10px -10px 20px 0px rgb(160, 160, 160), 10px -10px 20px 0 rgb(160, 160, 160);
+}
+
+.bunip-area img {
+  box-shadow: -10px -8px 20px 0px rgb(185, 185, 185), 10px -8px 20px 0 rgb(185, 185, 185);
+}
+
+.wox-gen-plugin-area img {
+  box-shadow: -14px -14px 20px 0px rgb(49, 118, 118), 14px -14px 20px 0 rgb(49, 118, 118);
+}
+
+.ddnssharp-area a,
+.bunip-area a,
+.wox-gen-plugin-area a,
+footer a {
+  transition: text-shadow 0.8s;
+}
+
+.ddnssharp-area a:hover,
+.wox-gen-plugin-area a:hover,
+footer a:hover {
+  text-shadow: 0 0 16px #fff;
+}
+
+.bunip-area a:hover,
+footer a:hover {
+  text-shadow: 0 0 16px #039BE5;
+}
